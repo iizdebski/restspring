@@ -20,6 +20,7 @@
 *.jar
 *.ear
 *.mvn
+*.mvnw
 
 ### NetBeans ###
 /nbproject/private/
